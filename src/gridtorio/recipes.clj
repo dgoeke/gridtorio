@@ -10,7 +10,7 @@
 (def recipes-filename "recipes.json")
 
 (def items-to-produce
-  #{:satellite :rocket-part
+  #{:rocket-part :satellite
     :science-pack-1 :science-pack-2 :science-pack-3 :military-science-pack
     :high-tech-science-pack :production-science-pack :logistic-science-pack})
 
